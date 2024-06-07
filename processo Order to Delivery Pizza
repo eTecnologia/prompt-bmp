@@ -1,0 +1,7 @@
+Modelo de Prompt Processo
+Criar um exemplo de descrição de diagrama seguindo a especificação BPMN 2.0.2 que documente o processo {nome do processo}. O processo deve ser descrito em detalhes 
+através de eventos, fluxos, participantes e tarefas.
+
+<strong>Exemplo de Uso:</strong>
+Criar um exemplo de descrição de diagrama seguindo a especificação BPMN 2.0.2 que documente o processo Pedido e Entrega de Pizza. O processo deve ser descrito em 
+detalhes através de eventos, fluxos, participantes e tarefas.
