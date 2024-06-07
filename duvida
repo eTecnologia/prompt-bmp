@@ -1,9 +1,0 @@
-Modelo de Prompt:
-Baseado {na/no especificação/guia}. Gostaria de esclarecer a seguinte dúvida: {Detalhe sua dúvida}
-
-Exemplos de Uso:
-Exemplo 5.1: Baseado na BPMN. Gostaria de esclarecer a seguinte dúvida: Podemos ter dois eventos de início em um processo?
-
-Exemplo 5.2: Baseado na DMN. Gostaria de esclarecer a seguinte dúvida: Posso criar uma árvore de decisão para representar o valor de uma venda com desconto e sem desconto?
-
-Exemplo 5.3: Baseado no BPMCBOK v4. Gostaria de esclarecer a seguinte dúvida: Posso criar um Ciclo de Vida de Processos orientada pelo PDCA (Plan, Do ,Check,Act)?
