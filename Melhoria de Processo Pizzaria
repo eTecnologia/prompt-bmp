@@ -1,0 +1,12 @@
+Cenário de Atual:
+O lead time, o tempo médio de entrega de pedido é de 30 minutos. Cycle Time da preparação do pedido 15 minutos
+para preparação da pizza e 15 para entrega.Considerando que as entregas são feitas em um raio de 3km
+da Pizzaria, existem três entregadores, em cada entrega é atendido até 3 pedidos por vez.
+
+Cenários de Melhoria:
+1 - Calcular o lead time para um raio de 5 km, com 3 entregadores e com até 3 entregas por vez. 
+2 - Calcular o lead time para um raio de 5 km, com 4 entregadores e com até 3 entregas por vez. 
+3 - Calcular o lead time para um raio de 4 km, com 3 entregadores e com até 3 entregas por vez. 
+4 - Calcular o lead time para um raio de 4 km, com 4 entregadores e com até 3 entregas por vez.
+
+Definir qual é melhor cenário seguido o critério: Menor lead time e menor quantidade de entregadores
