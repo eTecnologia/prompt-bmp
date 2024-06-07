@@ -1,0 +1,8 @@
+Modelo de Prompt 1:
+Faça um breve tutorial de {Coloque aqui qual assunto você quer o tutorial. Exemplo: DMN}, explique os conceitos, fundamentos, detalhes as técnicas, dê 
+exemplos de aplicação prática e para finalizar e demonstre como integrar aos diagramas {Coloque Escreva aqui qual assunto você quer relacionar}. O nível 
+do conteúdo de ser para {Coloque aqui o nível do conteúdo: leigo, intermediário, avançado} e a linguagem deve ser fácil entendimento.
+
+Exemplo de Uso do Prompt 1:
+Faça um breve tutorial de DMN, explique os conceitos, fundamentos, detalhes as técnicas, dê exemplos de aplicação prática e para finalizar e demonstre 
+como integrar aos diagramas BPMN. O nível do conteúdo de ser para leigo e a linguagem deve ser fácil entendimento.
