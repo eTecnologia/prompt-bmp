@@ -3,6 +3,7 @@ Este prompot demonstra como fazer a análise de processo para melhoriaa. A empre
 feito a descrição da situção atual (AS-IS) e solicitado que faça uma simulação de alguns cenários e aponte o
 melhor cenário de acordo com o critério definido.
 
+Prompt:
 
 Cenário de Atual:
 O lead time, o tempo médio de entrega de pedido é de 30 minutos. Cycle Time da preparação do pedido 15 minutos
