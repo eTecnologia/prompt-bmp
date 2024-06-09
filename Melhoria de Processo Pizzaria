@@ -17,3 +17,8 @@ Cenários de Melhoria:
 4 - Calcular o lead time para um raio de 4 km, com 4 entregadores e com até 3 entregas por vez.
 
 Definir qual é melhor cenário seguido o critério: Menor lead time e menor quantidade de entregadores
+
+#Refinar. Refinar é a arte melhorar a escrita do prompt:
+Instruções:
+Elaborar 3 cenários para 6km, 5km, 4km, variando a quantidade de entregadores de 3 a 6 para cada cenário.
+Selecionar e apresentar o melhor cenário seguido o critério: Menor lead time e menor quantidade de entregadores
