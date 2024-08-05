@@ -22,3 +22,4 @@ Prompts:<BR>
 
 [Melhoria de Processo Pizzaria](https://github.com/eTecnologia/prompt-bmp/wiki/Melhoria-de-Processo-Pizzaria)
 
+[Exemplos de Prompts do Curso de Engenharia e Design de Prompt](https://github.com/eTecnologia/prompt-bmp/wiki/Exemplos-do-Curso-Engenharia-e-Design-de-Prompt-para-BPM)
